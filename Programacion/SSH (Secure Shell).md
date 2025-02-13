@@ -1,0 +1,1 @@
+Es un protocolo de red que permite ejecutar comando a traves de internet y por conexiones no seguras
